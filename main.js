@@ -1,1 +1,2 @@
-console.log("HDSNG");
+import { str } from "./data";
+console.log(str);
