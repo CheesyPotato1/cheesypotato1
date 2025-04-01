@@ -1,1 +1,1 @@
-console.log("HDOSNG");
+console.log("HDSNG");
